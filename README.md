@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME :T.K.SHRIVIMAL
+ #### REGISTER NUMBER :212224220101
+ #### DEPARTMENT : IT
+ #### YEAR : I
 
  
 # Aim:
@@ -81,17 +81,18 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 
 # Simulation Screenshots 
+# TIMER ON:
+![Screenshot 2025-02-28 171908](https://github.com/user-attachments/assets/1e8a5d7e-6517-4dbc-b128-8457ab1efc86)
+
+![Screenshot 2025-02-28 171929](https://github.com/user-attachments/assets/9c859e71-0d54-40ed-9ee0-4a7a219d5927)
 
 
+# TIMER OFF:
+
+![Screenshot 2025-02-28 172035](https://github.com/user-attachments/assets/611bc881-9947-4028-98b3-c05eb3b88eaf)
 
 
-
-
-
-
-
-
-
+![Screenshot 2025-02-28 172049](https://github.com/user-attachments/assets/6dc930cf-5e60-474c-983d-7360e453e02c)
 
 
 
